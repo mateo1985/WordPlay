@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPlay", "WordPlay\WordPlay.csproj", "{856F63BA-9AA0-42DB-9C69-14B3D75AC575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPlay.Tests", "WordPlay.Tests\WordPlay.Tests.csproj", "{244067A5-3D9A-4E68-9C7A-0E22981FA0F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856F63BA-9AA0-42DB-9C69-14B3D75AC575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856F63BA-9AA0-42DB-9C69-14B3D75AC575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856F63BA-9AA0-42DB-9C69-14B3D75AC575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856F63BA-9AA0-42DB-9C69-14B3D75AC575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{244067A5-3D9A-4E68-9C7A-0E22981FA0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244067A5-3D9A-4E68-9C7A-0E22981FA0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244067A5-3D9A-4E68-9C7A-0E22981FA0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244067A5-3D9A-4E68-9C7A-0E22981FA0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29673283-BDA7-4CDA-B41D-F68E275DBD05}
+	EndGlobalSection
+EndGlobal
