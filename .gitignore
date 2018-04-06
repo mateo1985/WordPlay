@@ -1,1 +1,8 @@
 .vs
+ WordPlay.Tests/bin/
+WordPlay.Tests/obj/
+WordPlay.sln.DotSettings.user
+WordPlay/bin/
+WordPlay/obj/
+packages/
+WordPlay.Tests/bin/
